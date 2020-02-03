@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d7681cb-e824-423c-955b-ff8c45d7c48a" name="Default Changelist" comment="" />
+    <list default="true" id="1d7681cb-e824-423c-955b-ff8c45d7c48a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +24,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Sentence.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Tester.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1WndBSriP1Od6VmaXHOI6fldYvg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -79,7 +90,8 @@
       <workItem from="1580163881691" duration="172000" />
       <workItem from="1580214224652" duration="1184000" />
       <workItem from="1580265987126" duration="8145000" />
-      <workItem from="1580478751749" duration="15014000" />
+      <workItem from="1580478751749" duration="15457000" />
+      <workItem from="1580737334305" duration="5622000" />
     </task>
     <servers />
   </component>
@@ -95,22 +107,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580510152475" />
-    <state width="1237" height="191" key="GridCell.Tab.0.bottom" timestamp="1580513484703">
+    <state width="1237" height="191" key="GridCell.Tab.0.bottom" timestamp="1580746883577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580513484703" />
-    <state width="1237" height="191" key="GridCell.Tab.0.center" timestamp="1580513484703">
+    <state width="1237" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580746883577" />
+    <state width="1237" height="191" key="GridCell.Tab.0.center" timestamp="1580746883576">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580513484703" />
-    <state width="1237" height="191" key="GridCell.Tab.0.left" timestamp="1580513484703">
+    <state width="1237" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580746883576" />
+    <state width="1237" height="191" key="GridCell.Tab.0.left" timestamp="1580746883576">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580513484703" />
-    <state width="1237" height="191" key="GridCell.Tab.0.right" timestamp="1580513484703">
+    <state width="1237" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580746883576" />
+    <state width="1237" height="191" key="GridCell.Tab.0.right" timestamp="1580746883577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580513484703" />
+    <state width="1237" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580746883577" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1580742388924">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580742388924" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1580742388924">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580742388924" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1580742388923">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580742388923" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1580742388924">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580742388924" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580161386899">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

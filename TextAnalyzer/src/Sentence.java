@@ -41,6 +41,14 @@ public class Sentence {
         return sb.toString();
     }
 
+    public int numLetters() {
+        int numLetters = 0;
+        for (int i = 0; i < words.size(); i++) {
+            numLetters += words.get(i).numLetters();
+        }
+        return numLetters;
+    }
+
     public int numWords() {
         String [] letterArray = text.split("");
         int numWords = 0;

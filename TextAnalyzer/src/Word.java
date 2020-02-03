@@ -44,6 +44,11 @@ public class Word {
         }
     }
 
+    public int numLetters() {
+        String[] letterArray = word.split("");
+        return letterArray.length;
+    }
+
     public int numSilent() {
 
         int numSilent = 0;
