@@ -98,6 +98,29 @@ public class TextAnalyzer {
         }
     }
 
+    public String gradeLevel(int gl) {
+        System.out.println(gl);
+        if(gl == 1) {
+            return "1st grade";
+        } else if (gl == 2) {
+            return "2nd grade";
+        } else if (gl == 3) {
+            return "3rd grade";
+        } else if (gl == 4) {
+            return "4th grade";
+        } else if (gl == 5) {
+            return "5th grade";
+        } else if (gl == 6) {
+            return "6th grade";
+        } else if (gl >= 7 && gl <= 8) {
+            return "7th to 8th grade";
+        } else if (gl >= 10 && gl <= 12) {
+            return "10th to 12th grade";
+        } else {
+            return "College graduate";
+        }
+     }
+
     public String educationLevel() {
         int readability = fleschScore();
         if(readability >= 91) {
