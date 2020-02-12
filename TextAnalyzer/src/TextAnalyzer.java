@@ -116,6 +116,8 @@ public class TextAnalyzer {
             return "7th to 8th grade";
         } else if (gl >= 10 && gl <= 12) {
             return "10th to 12th grade";
+        } else if (gl >= 13 && gl <= 16) {
+            return "College student";
         } else {
             return "College graduate";
         }
